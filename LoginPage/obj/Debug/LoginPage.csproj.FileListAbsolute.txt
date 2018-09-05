@@ -1,0 +1,10 @@
+F:\code\LoginPage\LoginPage\bin\LoginPage.dll
+F:\code\LoginPage\LoginPage\bin\LoginPage.pdb
+F:\code\LoginPage\LoginPage\obj\Debug\LoginPage.csprojResolveAssemblyReference.cache
+F:\code\LoginPage\LoginPage\obj\Debug\LoginPage.dll
+F:\code\LoginPage\LoginPage\obj\Debug\LoginPage.pdb
+C:\Users\Acer\Desktop\LoginPage\LoginPage\bin\LoginPage.dll
+C:\Users\Acer\Desktop\LoginPage\LoginPage\bin\LoginPage.pdb
+C:\Users\Acer\Desktop\LoginPage\LoginPage\obj\Debug\LoginPage.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\LoginPage\LoginPage\obj\Debug\LoginPage.dll
+C:\Users\Acer\Desktop\LoginPage\LoginPage\obj\Debug\LoginPage.pdb
